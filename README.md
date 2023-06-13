@@ -1,11 +1,23 @@
-# Hola Mundo 👋
+# ${About\ {\color{lightblue}me}}\ $
 
 `PROBLEMS` `OUTPUT` `DEBUG CONSOLE` `TERMINAL`
 ```C#
 using GitHub;
 
-Console.WriteLine("MI NOMBRE ES GABRIEL SOTILLO");
+internal class Developer{
+
+    private static void Main(string[] args){
+
+        Console.WriteLine("MY NAME IS GABRIEL SOTILLO");
+        Console.WriteLine("NICE TO MEET YOU!");
+
+        Environment.Exit(0);
+    }
+
+}
 ```
+
+
 
 <!--
 **gabrielsotillo/gabrielsotillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
