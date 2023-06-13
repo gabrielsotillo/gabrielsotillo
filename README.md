@@ -4,7 +4,7 @@
 ```C#
 using GitHub;
 
-Console.WriteLine("Mi nombre es Gabriel Sotillo");
+Console.WriteLine("MI NOMBRE ES GABRIEL SOTILLO");
 ```
 
 <!--
