@@ -19,7 +19,7 @@ internal class Developer{
 
  My name is **Gabriel Sotillo**, but you can call me **Gabo**. I have more than 8 years of experience in the area of systems, software, data backup, remote assistance, and user support. I worked 2 years developing VBA scripts for Microsoft Excel and Word.
  
- Currently I am **learning** application development in **C#**, so that I can be a **full-stack programmer** in the future.
+ Currently I am **learning** application development in **Python**, so that I can be a **full-stack programmer** in near the future.
 
 
 <!--
